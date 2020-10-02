@@ -5,7 +5,7 @@ I have spent the last few years working in bike shops, leading bike tours, and p
 **I am currently seeking junior level software engineer opportunities, especially with a values-based company that has some capacity for mentoring.**
 
 #### Connect with me
-[Portfolio](travissouthard.github.io) | 
+[Portfolio](https://travissouthard.github.io) | 
 [LinkedIn](https://www.linkedin.com/in/southardtravis/) | 
 [Email](mailto:tsouthard88@gmail.com)
 
