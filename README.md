@@ -10,4 +10,4 @@ I have spent the last few years working in bike shops, leading bike tours, and p
 [Email](mailto:tsouthard88@gmail.com)
 
 [![Travis' github stats](https://github-readme-stats.vercel.app/api?username=travissouthard&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=travissouthard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.travissouthard.vercel.app/api/top-langs/?username=travissouthard&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
