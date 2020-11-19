@@ -16,9 +16,8 @@
 > **I am currently seeking junior level software engineer opportunities, especially with a values-based company that has some capacity for mentoring.**
 
 #### Connect with me
-[Portfolio](https://travissouthard.github.io) | 
-[LinkedIn](https://www.linkedin.com/in/southardtravis/) | 
-[Email](mailto:tsouthard88@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Porfolio-blue)](https://travissouthard.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/southardtravis/) | 
+[![Email](https://img.shields.io/badge/-Email-blue)](mailto:tsouthard88@gmail.com)
 
 ![Travis' github stats](https://github-readme-stats.travissouthard.vercel.app/api?username=travissouthard&count_private=true)
-![Top Langs](https://github-readme-stats.travissouthard.vercel.app/api/top-langs/?username=travissouthard&layout=compact)
