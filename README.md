@@ -16,7 +16,7 @@
 - 💻 I am particularly interested in building useful applications that improve people's quality of life and connect people to resources.
 
 #### My tech stack
-![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30px"/>]
 
 #### Connect with me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=github)](https://travissouthard.github.io)
