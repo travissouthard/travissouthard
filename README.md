@@ -1,5 +1,7 @@
 ### Hello, my name is Travis and I am a full stack software developer!
 
+> **I am currently seeking junior level software engineer opportunities, especially with a values-based company that has some capacity for mentoring.**
+
 #### About me
 - 🏙 I live in Philadelphia, PA
 - 📃 I have spent the last few years:
@@ -13,7 +15,8 @@
   - 🦞🏝 [East Coast Greenway](https://www.greenway.org/), 2019 with [my best friend](https://www.instagram.com/ridealongpictures/)
 - 💻 I am particularly interested in building useful applications that improve people's quality of life and connect people to resources.
 
-> **I am currently seeking junior level software engineer opportunities, especially with a values-based company that has some capacity for mentoring.**
+#### My tech stack
+![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
 
 #### Connect with me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=github)](https://travissouthard.github.io)
