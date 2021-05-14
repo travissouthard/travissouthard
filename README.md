@@ -1,8 +1,6 @@
 # Hello, my name is Travis Southard!
 ## I am a full stack software developer!
 
-> **I am currently seeking junior level software engineer opportunities, especially with a values-based company that has some capacity for mentoring.**
-
 ### About me
 - 🏙  I live in Philadelphia, PA
 - 📃  I have spent the last few years:
