@@ -14,3 +14,4 @@ Before transitioning into working in tech, I spent about 5 years working in the 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=github)](https://travissouthard.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/southardtravis/)
 [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail)](mailto:travissouthard@proton.me)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E570FW)
