@@ -10,6 +10,10 @@ I am actively volunteering with Code for Philly on the leadership team. Previous
 
 Before transitioning into working in tech, I spent about 5 years working in the bicycle industry as a mechanic and bike tour organizer. I am also an Americorps alum who served in City Year Philadelphia. I have ridden two cross-country bike tours with Bike & Build, and another on the full East Coast Greenway with my best friend.
 
+### Recognitions
+
+- [Technical.ly RealLIST Engineers 2023](https://technical.ly/software-development/philly-reallist-engineers-2023/)
+
 ### Connect with me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=github)](https://travissouthard.com)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/southardtravis/)
