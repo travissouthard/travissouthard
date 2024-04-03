@@ -4,7 +4,7 @@
 ### About me
 My name is Travis, and I am a software engineer living in Philadelphia with my spouse, Ruby, and our two cats, Topaz and Basil. I am interested in gardening, bike touring, and solarpunk living.
 
-I am currently a Developer and Data Analyst in the Digital Innovation Lab at [Community Legal Services Philadelphia](https://clsphila.org/), especially working with civic technology or geospatial solutions. I have previously worked at Comcast via Brooksource, Element84, Azavea, and Urality.
+I am currently a Developer and Data Analyst in the Digital Innovation Lab at [Community Legal Services Philadelphia](https://clsphila.org/). I have previously worked at Comcast via Brooksource, Element84, Azavea, and Urality.
 
 I am actively volunteering as Executive Director at [Code for Philly](https://codeforphilly.org/). Previous roles for Code for Philly have been as the tech lead for the [Expungement Petition Generator](https://codeforphilly.org/projects/philadelphia_lawyers_for_social_equity_-_record_expungement) benefitting Philadelphia Lawyers for Social Equity and helping to launch the [PhilaVibes](https://codeforphilly.org/projects/third_places_project-launchpad_2023) as part of Code for Philly's Launchpad 2023.
 
